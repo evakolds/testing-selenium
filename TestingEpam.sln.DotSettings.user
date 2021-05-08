@@ -1,0 +1,169 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">/usr/local/share/dotnet/sdk/5.0.202/MSBuild.dll</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0b85f088_002D6cf5_002D4636_002D8fdf_002Dd829042c9818/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #32" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0c33f18b_002D513a_002D4697_002D99a9_002D9339214e0a73/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test #33" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0cbb2ac0_002D4728_002D48fc_002D9611_002D62ee0d8e83e0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #13" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=15c6b14a_002D1692_002D4036_002Dbfd6_002D1740989e71fb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #18" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1addde61_002De074_002D4ad7_002Db684_002D69a6fcbad9e1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1c23ec99_002Dad93_002D4fdd_002D8135_002D715252fb9fda/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #27" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2643ecdc_002Dcf3b_002D4600_002Db912_002Dc4d975bfacb0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #15" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2a38dc6f_002D52b7_002D49bb_002D970d_002Dcb64110657b5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2e34308f_002D7e99_002D416d_002D9842_002Dfd75d0f11bd4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #25" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=50ef3545_002D076d_002D41de_002D8d20_002Dc41c02bb13e0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #28" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=60be9f1b_002D5abe_002D40f2_002Da13a_002Ded0453930d41/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #19" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=63ac573b_002Da84d_002D474a_002D9002_002Dd48b92455f12/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #14" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6810c8dc_002D1f1f_002D43f5_002D9ea1_002Df18a94c76039/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=725b400e_002Dc0d2_002D487a_002Db067_002D7ceef94e98d6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #31" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=745c8577_002Dac5d_002D4577_002Db66e_002D13f6b6ce49e1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #23" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=76afe8b7_002Df692_002D4514_002D8933_002D27257f4d1f06/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #30" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7c8af200_002D5401_002D42a1_002D8ceb_002D8f2b76cfcc6c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #11" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8acf68a9_002D5918_002D472b_002D8388_002D0597fa495c46/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #22" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8cc6bbcd_002Ddfc9_002D420e_002D8e41_002D5c6670a3c911/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #17" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8efb4aaf_002Dc508_002D4f78_002Dbcce_002D5742e30d7282/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8fed2837_002D816e_002D4787_002Da431_002D67bb36b30398/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #21" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=91f193ef_002Dd0f0_002D412e_002D85a6_002D5b8c5b4a7e34/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #12" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=94387eff_002D4ceb_002D435b_002Da319_002D37b7538503f9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=94aad06b_002Dc343_002D49fe_002Db9c4_002D6981969728f8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #29" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bc344a77_002D0b9e_002D4411_002Dad6e_002Da21087426f9d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #26" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bcc58adb_002D901e_002D4c47_002D8e70_002D02327c5305e8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c27a0cc2_002D4eda_002D4e99_002Db029_002D867183664c75/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #10" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c39cff99_002Dfff9_002D4cef_002D81b0_002D0b84bb997be2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #8" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d1fa7d68_002D0427_002D4e25_002D8fa3_002D42ebcd5311c0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ea838f3c_002Dea9d_002D40b3_002D9dc7_002D7eeff7d11350/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #20" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fa729e4b_002Dfdb7_002D454d_002Da46b_002D52718c3f6096/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #16" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fcdc21c8_002De050_002D4284_002Da345_002Da276519b1638/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #9" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ff7a5d8e_002D5dc9_002D4011_002Db695_002Df3af89241619/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #24" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4B6000A2-CFFF-43C3-8A19-AA97B4350019::net5.0::TestingEpam.TestEpam+Test&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/HangingTestRunnerResponse/@EntryValue">KillProcess</s:String></wpf:ResourceDictionary>
